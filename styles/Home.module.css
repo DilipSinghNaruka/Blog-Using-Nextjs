@@ -1,0 +1,30 @@
+.container{
+  background-color: white;
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+}
+
+.navbar ul{
+  display: flex;
+  margin-right: 3rem;
+  
+}
+.navbar li{
+  list-style-type: none;
+  padding-left: 3rem;
+  color: white;
+  font-weight: 800;
+
+  
+}
+.logo{
+padding-top: 0.8rem;
+margin-left:3rem ;
+color: rgb(0, 255, 255);
+font-size: larger;
+font-weight: 000;
+}
